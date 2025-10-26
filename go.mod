@@ -22,7 +22,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.18.2
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/xtls/xray-core v1.8.25-0.20250101120305-e80ca67feed9
 	golang.org/x/crypto v0.31.0
 	golang.org/x/net v0.33.0
